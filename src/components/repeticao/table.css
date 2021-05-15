@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+}
+
+thead th {
+    color: white;
+    text-align: left;
+}
+
+tbody td{
+    background: white;
+    text-align: left;
+}
